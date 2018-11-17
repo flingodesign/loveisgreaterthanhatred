@@ -377,5 +377,7 @@ a:hover, a:focus, a:active {
 }
 .scroll-down {
   color: white !important;
-  padding-top: 90%;
+  background-color: transparent !important;
+  display: inline-block;
+  width: 100%;
 }
