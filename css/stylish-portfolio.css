@@ -375,3 +375,7 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+.scroll-down {
+  color: white !important;
+  padding-top: 90%;
+}
