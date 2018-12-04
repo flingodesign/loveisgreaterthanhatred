@@ -380,3 +380,6 @@ a:hover, a:focus, a:active {
   display: inline-block;
   width: 100%;
 }
+.img-rounded {
+  border-radius: 50%;
+}
